@@ -10,11 +10,11 @@
 
 ```javascript
 const luiz = {
-  code: [Java, Kotlin],
-  tools: [Docker, Maven],
-  architecture: [],
+  code: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  tools: ["PostgreSQL", "SQL", "jQuery", "Bootstrap"],
+  architecture: ["MVC", "REST", "GraphQL"],
   challenge: "None at the moment. :("
-}
+};
 ```
 
 ## ⭐ GitHub Stats
