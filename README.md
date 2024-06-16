@@ -8,13 +8,21 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const luiz = {
-  code: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-  tools: ["PostgreSQL", "SQL", "jQuery", "Bootstrap"],
-  architecture: ["MVC", "REST", "GraphQL"],
-  challenge: "None at the moment. :("
-};
+```c
+typedef struct {
+    const char* code[5];
+    const char* tools[4];
+    const char* architecture[3];
+    const char* challenge;
+} Luiz;
+
+int main() {
+    Luiz luiz = {
+        .code = {"C", "C++", "Python", "Shell Script", "SQL"},
+        .tools = {"PostgreSQL", "MySQL", "Docker", "GCC"},
+        .architecture = {"MVC", "REST", "Microservices"},
+        .challenge = "None at the moment. :("
+    };
 ```
 
 ## ⭐ GitHub Stats
