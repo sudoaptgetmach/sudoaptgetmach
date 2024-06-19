@@ -10,7 +10,7 @@
 
 ```c
 typedef struct {
-    const char* code[5];
+    const char* code[4];
     const char* tools[4];
     const char* architecture[3];
     const char* challenge;
@@ -18,7 +18,7 @@ typedef struct {
 
 int main() {
     Luiz luiz = {
-        .code = {"C", "C++", "Python", "Shell Script", "SQL"},
+        .code = {"C", "C++", "Python", "SQL"},
         .tools = {"PostgreSQL", "MySQL", "Docker", "GCC"},
         .architecture = {"MVC", "REST", "Microservices"},
         .challenge = "None at the moment. :("
