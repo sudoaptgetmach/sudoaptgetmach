@@ -27,6 +27,6 @@ int main() {
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoaptgetmach&show_icons=true)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoaptgetmach&show_icons=true&theme=transparent)
 
 ---
