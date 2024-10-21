@@ -10,15 +10,14 @@
 
 ```c
 typedef struct {
-    const char* code[4];
-    const char* tools[4];
+    const char* code[2];
     const char* architecture[3];
     const char* challenge;
 } Luiz;
 
 int main() {
     Luiz luiz = {
-        .code = {"C", "C++", "Python", "SQL"},
+        .code = {"C", "Java"},
         .architecture = {"MVC", "REST", "Microservices"},
         .challenge = "None at the moment. :("
     };
