@@ -19,7 +19,6 @@ typedef struct {
 int main() {
     Luiz luiz = {
         .code = {"C", "C++", "Python", "SQL"},
-        .tools = {"PostgreSQL", "MySQL", "Docker", "GCC"},
         .architecture = {"MVC", "REST", "Microservices"},
         .challenge = "None at the moment. :("
     };
