@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 🎲 Chess and Aviation enthusiast; 
 - 🔐 Interested in **Pentesting** and **Information Security**.
 - 💡 Focused on creating projects like API-integrated applications, and enhancing Java and web dev skills.
-- 🌍 Learning languages: **English**, **Dutch**, and **Russian** (for fun!).
+- 🌍 Learning languages: **English** and **Dutch** (for fun!).
 - 🛠️ Dual boot enthusiast with a robust environment featuring **Windows 11** and **Pop!_OS**
 
 ---
@@ -29,8 +29,6 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300FF00.svg?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
