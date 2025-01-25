@@ -29,22 +29,3 @@ Welcome to my GitHub profile!
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300FF00.svg?style=for-the-badge&logo=protonmail&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🧠 Current Projects
-- 🎥 Exploring **Object-Oriented Programming (OOP)** through a custom version of the `Screenmatch` project, leveraging **Java**, **Spring**, and **PostgreSQL**.
-- 💻 Solving challenges and problems from **ProgrammingExercises** to enhance problem-solving and algorithmic thinking.
-- 🌐 Building a cryptography **text encoder/decoder** tool in **JavaScript** with web interface integration.
-
----
-
-## 📫 How to Reach Me
-- Email: `eu@lmachado.tech`
-
-Let's build something awesome together!
-
----
