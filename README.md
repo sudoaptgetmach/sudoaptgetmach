@@ -6,9 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🎓 Currently pursuing **Software Engineering** while diving into Back-end and Security-focused tech learning.
-- 🎲 Chess and Aviation enthusiast; 
-- 🔐 Interested in **Pentesting** and **Information Security**.
-- 💡 Focused on creating projects like API-integrated applications, and enhancing Java and web dev skills.
+- 🎲 Chess and Aviation enthusiast;
 - 🌍 Learning languages: **English** and **Dutch** (for fun!).
 - 🛠️ Dual boot enthusiast with a robust environment featuring **Windows 11** and **Pop!_OS**
 
