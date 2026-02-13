@@ -1,6 +1,6 @@
 Backend developer passionate about coding and building scalable solutions.
 
-Java • Kotlin • Spring Boot • Docker • RabbitMQ • Redis
+Java • Kotlin • C# • Spring Boot • Docker • RabbitMQ • Redis
 
 **Some projects I've been working on**
 * **[Echo](https://github.com/sudoaptgetmach/echo)** – Distributed data ingestion system using Go and Spring Boot, decoupled via RabbitMQ.
